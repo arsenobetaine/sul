@@ -9,7 +9,7 @@
 <p>Welcome to the GitHub repository for the <a href="https://sul.sahandsoleimani.ir">SUL</a> website. This project is
     dedicated to raising awareness about the environmental crisis affecting Urmia Lake, one of the largest saltwater
     lakes in the Middle East, and to encouraging actionable steps to restore it.</p>
-<img src="https://cdn.sul.sahandsoleimani.ir/images/opengraph.jpg" />
+<img src="https://sul.sahandsoleimani.ir/cdn/jpg/opengraph.jpg" />
 <p>The SUL website serves as an educational and motivational platform aimed at increasing public awareness about the
     dire situation of Urmia Lake.</p>
 <hr>
