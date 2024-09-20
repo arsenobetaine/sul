@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Circular";
-  src: url("https://cdn.sul.sahandsoleimani.ir/fonts/CircularXXWeb-Regular.woff") format("woff");
+  src: url("https://cdn.sul.soleimani.dev/fonts/CircularXXWeb-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "Circular";
-  src: url("https://cdn.sul.sahandsoleimani.ir/fonts/CircularXXWeb-Book.woff") format("woff");
+  src: url("https://cdn.sul.soleimani.dev/fonts/CircularXXWeb-Book.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "Circular";
-  src: url("https://cdn.sul.sahandsoleimani.ir/fonts/CircularXXWeb-Medium.woff") format("woff");
+  src: url("https://cdn.sul.soleimani.dev/fonts/CircularXXWeb-Medium.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: "Beirut";
-  src: url("https://cdn.sul.sahandsoleimani.ir/fonts/BeirutDisplay-SemiBold.otf") format("opentype");
+  src: url("https://cdn.sul.soleimani.dev/fonts/BeirutDisplay-SemiBold.otf") format("opentype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -32,7 +32,7 @@
 
 @font-face {
   font-family: "Beirut";
-  src: url("https://cdn.sul.sahandsoleimani.ir/fonts/BeirutDisplay-Bold.otf") format("opentype");
+  src: url("https://cdn.sul.soleimani.dev/fonts/BeirutDisplay-Bold.otf") format("opentype");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -2451,7 +2451,7 @@ li {
   clear: both;
   margin-bottom: 16px;
   padding-right: 32px;
-  background-image: url("https://cdn.sul.sahandsoleimani.ir/images/bullet-point-dark.svg");
+  background-image: url("https://cdn.sul.soleimani.dev/images/bullet-point-dark.svg");
   background-position: 100%;
   background-repeat: no-repeat;
   font-family: "Noto Sans Arabic", sans-serif;
@@ -2794,7 +2794,7 @@ blockquote {
 }
 
 .text-rich-text li {
-  background-image: url("https://cdn.sul.sahandsoleimani.ir/images/bullet-point-dark.svg");
+  background-image: url("https://cdn.sul.soleimani.dev/images/bullet-point-dark.svg");
   background-position: 100%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -5878,7 +5878,7 @@ blockquote {
 }
 
 .text-rich-text-lead li {
-  background-image: url("https://cdn.sul.sahandsoleimani.ir/images/bullet-point-dark.svg");
+  background-image: url("https://cdn.sul.soleimani.dev/images/bullet-point-dark.svg");
   background-position: 100%;
   background-size: auto;
   background-repeat: no-repeat;
