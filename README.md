@@ -1,15 +1,15 @@
 <hr>
-<h3 align="center">Saving Urmia Lake <a href="https://sul.sahandsoleimani.ir">🡥</a></h3>
-<p align="center">EN <a href="https://sul.sahandsoleimani.ir">🡥</a> — DE <a
-        href="https://de.sul.sahandsoleimani.ir">🡥</a> — FR <a href="https://fr.sul.sahandsoleimani.ir">🡥</a> — HY <a
-        href="https://hy.sul.sahandsoleimani.ir">🡥</a> — AZ <a href="https://az.sul.sahandsoleimani.ir">🡥</a> — TR <a
-        href="https://tr.sul.sahandsoleimani.ir">🡥</a> — FA <a href="https://fa.sul.sahandsoleimani.ir">🡥</a> — AR <a
-        href="https://ar.sul.sahandsoleimani.ir">🡥</a></p>
+<h3 align="center">Saving Urmia Lake <a href="https://sul.soleimani.dev">🡥</a></h3>
+<p align="center">EN <a href="https://sul.soleimani.dev">🡥</a> — DE <a
+        href="https://de.sul.soleimani.dev">🡥</a> — FR <a href="https://fr.sul.soleimani.dev">🡥</a> — HY <a
+        href="https://hy.sul.soleimani.dev">🡥</a> — AZ <a href="https://az.sul.soleimani.dev">🡥</a> — TR <a
+        href="https://tr.sul.soleimani.dev">🡥</a> — FA <a href="https://fa.sul.soleimani.dev">🡥</a> — AR <a
+        href="https://ar.sul.soleimani.dev">🡥</a></p>
 <hr>
-<p>Welcome to the GitHub repository for the <a href="https://sul.sahandsoleimani.ir">SUL</a> website. This project is
+<p>Welcome to the GitHub repository for the <a href="https://sul.soleimani.dev">SUL</a> website. This project is
     dedicated to raising awareness about the environmental crisis affecting Urmia Lake, one of the largest saltwater
     lakes in the Middle East, and to encouraging actionable steps to restore it.</p>
-<img src="https://sul.sahandsoleimani.ir/cdn/jpg/opengraph.jpg" />
+<img src="https://sul.soleimani.dev/cdn/jpg/opengraph.jpg" />
 <p>The SUL website serves as an educational and motivational platform aimed at increasing public awareness about the
     dire situation of Urmia Lake.</p>
 <hr>
